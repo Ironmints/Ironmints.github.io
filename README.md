@@ -1,2 +1,2 @@
-# startup Booster - A startup website
+# Startup Booster - A startup website
 
