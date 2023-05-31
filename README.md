@@ -1,2 +1,2 @@
-# Startup Booster - A startup website
+# Startup Booster - Your Startup Accelerator
 
